@@ -1,2 +1,2 @@
 # FIND-MY-FLAGS
-C console game
+간단한 C 언어 콘솔 
